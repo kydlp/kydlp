@@ -39,4 +39,3 @@ I improve customer support operations with **knowledge management and generative
 #### Tools I use
 TypeScript / Cloudflare Workers / Anthropic Claude / NotebookLM / Gmail API
 
-📫 motchiapple@gmail.com
