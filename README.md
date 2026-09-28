@@ -1,4 +1,4 @@
-### こんにちは Suzuki です
+### こんにちは Rui です
 
 カスタマーサポート × ナレッジマネジメント × 生成AI で、CS の現場を仕組みで改善しています。
 2022年から CS・営業・テレアポに携わり、現在はフードデリバリー会社の顧客サポートチームのSVとして現場の運用と品質に責任を持っています。
@@ -18,7 +18,6 @@
 
 **[vending-telemetry-bridge](https://github.com/kydlp/vending-telemetry-bridge)** — 公開APIのない業務システムから、日次データを無人で取り続けるための設計・運用記録（ドキュメントのみ）
 - 「1人しか取り出せない事実」「休むと止まる確認作業」を、**失敗時に必ず鳴る**自動化に置き換えた
-- やらなかったこと・断ったこと（請求に影響する設定は触らない）まで記録
 
 #### よく使う技術・ツール
 TypeScript / Python / Cloudflare Workers / Anthropic Claude / NotebookLM / Gmail API / BASE
